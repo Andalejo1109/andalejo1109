@@ -1,12 +1,16 @@
-## Hi there 👋
+# @Andalejo1109
 
-- 🎓 Holds a degree in Economics and a Master's in Data Analytics Engineering.
-- 🔭 Currently employed at a US financial company, and also providing independent consulting services.
-- 🌱 I’m currently learning IA and LLMs models and apps
-- 📫 you can connect with my on https://www.linkedin.com/in/andalejo/
-- ⚡ Fun fact: My passion lies in cycling, my peace in gravel trails.
-- 🔭📊 eToro: https://etoro.tw/4lkmjxn
-- 🎥 YouTube: https://youtube.com/@andalejo1109?si=mFUajKT2k3K0L-Os
+**Popular Investor en eToro** · core ETF · DCA · sin apalancamiento · risk 4
 
+[→ Copiar en eToro](https://etoro.tw/4lkmjxn) · [andalejo1109.github.io](https://andalejo1109.github.io/)
 
-  
+---
+
+Economista y científico de datos en Bogotá. Tesis pública: SPYG, SMH, BRK.B, IEMG y VTI. Horizonte 5–10 años.
+
+- 📊 Perfil eToro: [etoro.tw/4lkmjxn](https://etoro.tw/4lkmjxn)
+- 🏠 Web: [andalejo1109.github.io](https://andalejo1109.github.io/)
+- 📺 YouTube: [@andalejo1109](https://youtube.com/@andalejo1109)
+- 💼 LinkedIn: [andalejo](https://www.linkedin.com/in/andalejo/)
+
+Repos de la tesis: [Portfolio-distribution](https://github.com/Andalejo1109/Portfolio-distribution) · [Retiro-portafolio](https://github.com/Andalejo1109/Retiro-portafolio) · [Portfolio-management-and-optimization](https://github.com/Andalejo1109/Portfolio-management-and-optimization)
