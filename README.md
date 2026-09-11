@@ -2,8 +2,6 @@
 
 **Economista y científico de datos** en Bogotá. Auditor digital (detección de fraude en auditoría interna global), profesor de analítica y bases de datos, y Popular Investor en eToro.
 
-El mismo oficio —estadística, evidencia y disciplina— corre por el trabajo, el aula y el portafolio.
-
 [LinkedIn](https://www.linkedin.com/in/andalejo/) · [Web](https://andalejo1109.github.io/) · [YouTube](https://youtube.com/@andalejo1109) · [eToro](https://etoro.tw/4lkmjxn)
 
 ---
