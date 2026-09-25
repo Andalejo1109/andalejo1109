@@ -4,7 +4,7 @@
 
 [![Web](https://img.shields.io/badge/Web-andalejo1109.github.io-0B0E14?style=flat-square)](https://andalejo1109.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andalejo-0A66C2?style=flat-square)](https://www.linkedin.com/in/andalejo/)
-[![eToro](https://img.shields.io/badge/eToro-Champion-00B289?style=flat-square)](https://etoro.tw/4lkmjxn)
+[![eToro](https://img.shields.io/badge/eToro-Pro_Investor_Champion-00B289?style=flat-square)](https://etoro.tw/4lkmjxn)
 [![BullAware](https://img.shields.io/badge/BullAware-Sharpe_1.30-1f6feb?style=flat-square)](https://bullaware.com/etoro/Andalejo1109)
 
 Estadística descriptiva, multivariada y econométrica aplicada a decisiones: auditoría, fraude, docencia y, en público, una tesis de inversión de largo plazo.
@@ -54,7 +54,7 @@ El trabajo cuantitativo está en los repos, no en el titular del día:
 - [Trading-vs.-Inversi-n-Indexada-5-A-os](https://github.com/Andalejo1109/Trading-vs.-Inversi-n-Indexada-5-A-os) — fricción de costos vs. indexación
 - [Gold-trading-bot-vs-long-term-investing](https://github.com/Andalejo1109/Gold-trading-bot-vs-long-term-investing) — bot EMA 9/21 vs. buy & hold
 
-La versión en vivo de esa tesis está en eToro, como [@Andalejo1109](https://etoro.tw/4lkmjxn) (Popular Investor Champion). No es asesoría; es un registro público de una asignación y de sus supuestos.
+La versión en vivo de esa tesis está en eToro, como [@Andalejo1109](https://etoro.tw/4lkmjxn) (Pro Investor, nivel Champion). No es asesoría; es un registro público de una asignación y de sus supuestos.
 
 Quien quiera seguirla puede empezar con poco capital y aportar mes a mes. El detalle —riesgo, horizonte, cómo copiar— está en la [FAQ](https://andalejo1109.github.io/faq.html).
 
