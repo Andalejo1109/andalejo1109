@@ -1,4 +1,4 @@
-# Alejandro Rodríguez L.
+# Andrés Alejandro Rodríguez Lozano
 
 Economista y científico de datos en Bogotá. Estadística descriptiva, multivariada y econométrica aplicada a decisiones —auditoría, fraude, docencia y, en público, una tesis de inversión de largo plazo.
 
