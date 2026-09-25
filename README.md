@@ -1,8 +1,17 @@
-# Andrés Alejandro Rodríguez Lozano
+# Andrés Alejandro Rodríguez Lozano (@Andalejo1109)
+
+**Data Scientist & eToro Popular Investor**
+
+[![eToro](https://img.shields.io/badge/eToro-Popular_Investor_Elite-00B289?style=flat-square)](https://etoro.tw/4lkmjxn)
+[![BullAware](https://img.shields.io/badge/BullAware-Sharpe_1.30-1f6feb?style=flat-square)](https://bullaware.com/etoro/Andalejo1109)
+[![Risk](https://img.shields.io/badge/Risk-4-2BE8A8?style=flat-square)](https://www.etoro.com/people/andalejo1109)
+[![Web](https://img.shields.io/badge/Web-andalejo1109.github.io-0B0E14?style=flat-square)](https://andalejo1109.github.io/)
 
 Economista y científico de datos en Bogotá. Estadística descriptiva, multivariada y econométrica aplicada a decisiones —auditoría, fraude, docencia y, en público, una tesis de inversión de largo plazo.
 
-[Web](https://andalejo1109.github.io/) · [LinkedIn](https://www.linkedin.com/in/andalejo/) · [GitHub](https://github.com/Andalejo1109) · [YouTube](https://youtube.com/@andalejo1109)
+Quantitative ETF core. DCA. No leverage. Live register: [eToro @Andalejo1109](https://etoro.tw/4lkmjxn) · independent metrics: [BullAware](https://bullaware.com/etoro/Andalejo1109).
+
+[Web](https://andalejo1109.github.io/) · [LinkedIn](https://www.linkedin.com/in/andalejo/) · [YouTube](https://youtube.com/@andalejo1109) · [X](https://x.com/andalejo)
 
 ---
 
@@ -36,7 +45,9 @@ Economista y científico de datos en Bogotá. Estadística descriptiva, multivar
 
 La misma disciplina de datos, aplicada a un portafolio que publico y mido: **core ETF, aportes periódicos (DCA), sin apalancamiento, risk 4**, horizonte 5–10 años.
 
-Núcleo: **SPYG · SMH · BRK.B · IEMG · VTI**
+Núcleo: **$SPYG · $SMH · $BRK.B · $IEMG · $VTI**
+
+Auditoría externa (BullAware, corte 24 sep 2026): Sharpe **1.30** · Score **8/10** · Beta **0.95** · Risk **4**.
 
 El trabajo cuantitativo está en los repos, no en el titular del día:
 
