@@ -9,7 +9,7 @@
 
 Economista y científico de datos en Bogotá. Estadística descriptiva, multivariada y econométrica aplicada a decisiones —auditoría, fraude, docencia y, en público, una tesis de inversión de largo plazo.
 
-Quantitative ETF core. DCA. No leverage. Live register: [eToro @Andalejo1109](https://etoro.tw/4lkmjxn) · independent metrics: [BullAware](https://bullaware.com/etoro/Andalejo1109).
+Quantitative ETF core. DCA. No leverage. Live register: [eToro @Andalejo1109](https://etoro.tw/4lkmjxn) · independent metrics: [BullAware](https://bullaware.com/etoro/Andalejo1109) · FAQ: [andalejo1109.github.io/faq.html](https://andalejo1109.github.io/faq.html).
 
 [Web](https://andalejo1109.github.io/) · [LinkedIn](https://www.linkedin.com/in/andalejo/) · [YouTube](https://youtube.com/@andalejo1109) · [X](https://x.com/andalejo)
 
@@ -26,6 +26,34 @@ Quantitative ETF core. DCA. No leverage. Live register: [eToro @Andalejo1109](ht
 
 ---
 
+## Tesis de inversión (pública y medible)
+
+Core ETF, aportes periódicos (DCA), sin apalancamiento, risk 4, horizonte 5–10 años.
+
+Núcleo: **$SPYG · $SMH · $BRK.B · $IEMG · $VTI**
+
+Auditoría externa (BullAware, corte 24 sep 2026): Sharpe **1.30** · Score **8/10** · Beta **0.95** · Risk **4**.
+
+---
+
+## Preguntas frecuentes sobre el portafolio @Andalejo1109 en eToro
+
+### ¿Quién es @Andalejo1109 en eToro y cuál es su perfil profesional?
+
+@Andalejo1109 es Andrés Alejandro Rodríguez Lozano, economista y científico de datos en Bogotá, Colombia. Es Popular Investor Elite en eToro. Trabaja en auditoría digital y detección de fraude, y es profesor de analítica y bases de datos en la Universidad Sergio Arboleda. El método del portafolio está documentado en GitHub; el registro en vivo, en eToro.
+
+### ¿Qué riesgo tiene la estrategia de @Andalejo1109 y qué caídas (drawdowns) puedo esperar?
+
+El risk score público en eToro es 4. La cartera es 100% renta variable (ETFs + BRK.B), sin apalancamiento y sin ventas en corto. No hay margin call porque no hay apalancamiento. Eso no elimina el riesgo de mercado: en un año tipo 2022 un mix como este puede caer alrededor de −20%. Las caídas recientes de −5% a −6% que muestra BullAware son el tramo calmado, no el techo. Quien copie debe poder sostener un drawdown de mercado de renta variable.
+
+### ¿Cómo copiar el portafolio en eToro y cuál es el horizonte recomendado?
+
+Horizonte mínimo 3 años; la tesis es 5 a 10. Activar «Copiar operaciones abiertas». El mínimo de la plataforma alcanza para entrar; US$1.000–2.000 deja las cinco patas menos fragmentadas. Andrés aporta cada mes (DCA). No es asesoría. Invertir implica riesgo de pérdida de capital.
+
+Versión extendida: [andalejo1109.github.io/faq.html](https://andalejo1109.github.io/faq.html)
+
+---
+
 ## Proyectos de analítica
 
 | Repo | Qué es |
@@ -33,32 +61,9 @@ Quantitative ETF core. DCA. No leverage. Live register: [eToro @Andalejo1109](ht
 | [Companies-as-customers-clustering](https://github.com/Andalejo1109/Companies-as-customers-clustering) | Segmentación de clientes corporativos en R + Power BI |
 | [PQRS-text-mining](https://github.com/Andalejo1109/PQRS-text-mining) | NLP sobre PQRS del sector salud |
 | [Health-analysis-2020](https://github.com/Andalejo1109/Health-analysis-2020) | K-means sobre utilización de servicios clínicos |
-| [Fitness-data-analysis](https://github.com/Andalejo1109/Fitness-data-analysis) | Agregación y tableros de datos de fitness |
-| [MachineLearningcodes](https://github.com/Andalejo1109/MachineLearningcodes) | Clustering, clasificación, regresión y reducción de dimensión |
-| [Comercio-exterior-con-R](https://github.com/Andalejo1109/Comercio-exterior-con-R) | Análisis de exportaciones |
-| [Winning-space-race-wih-DS](https://github.com/Andalejo1109/Winning-space-race-wih-DS) | Proyecto aplicado de ciencia de datos |
-| [Modelo-variables-macro](https://github.com/Andalejo1109/Modelo-variables-macro) | Asignación dinámica guiada por indicadores macro |
-
----
-
-## Tesis de inversión (pública y medible)
-
-La misma disciplina de datos, aplicada a un portafolio que publico y mido: **core ETF, aportes periódicos (DCA), sin apalancamiento, risk 4**, horizonte 5–10 años.
-
-Núcleo: **$SPYG · $SMH · $BRK.B · $IEMG · $VTI**
-
-Auditoría externa (BullAware, corte 24 sep 2026): Sharpe **1.30** · Score **8/10** · Beta **0.95** · Risk **4**.
-
-El trabajo cuantitativo está en los repos, no en el titular del día:
-
-- [Portfolio-management-and-optimization](https://github.com/Andalejo1109/Portfolio-management-and-optimization) — backtest DCA vs. lump sum (2020–2025)
-- [Portfolio-distribution](https://github.com/Andalejo1109/Portfolio-distribution) — comparación de asignaciones y CAGR vs. media aritmética
-- [Retiro-portafolio](https://github.com/Andalejo1109/Retiro-portafolio) — sostenibilidad de un retiro de USD 1.000/mes (riesgo de secuencia)
-- [acumulacion-70k-225k](https://github.com/Andalejo1109/acumulacion-70k-225k) — proyección DCA a 5 años y retiro indexado
-- [Trading-vs.-Inversi-n-Indexada-5-A-os](https://github.com/Andalejo1109/Trading-vs.-Inversi-n-Indexada-5-A-os) — fricción de costos vs. indexación con poco capital
-- [Gold-trading-bot-vs-long-term-investing](https://github.com/Andalejo1109/Gold-trading-bot-vs-long-term-investing) — bot EMA 9/21 vs. buy & hold vs. portafolio estructural
-
-La versión en vivo de esa tesis está en eToro, como [@Andalejo1109](https://etoro.tw/4lkmjxn). No es asesoría; es un registro público de una asignación y de sus supuestos.
+| [Portfolio-distribution](https://github.com/Andalejo1109/Portfolio-distribution) | Asignaciones ETF, CAGR vs media aritmética |
+| [Portfolio-management-and-optimization](https://github.com/Andalejo1109/Portfolio-management-and-optimization) | Backtest DCA vs lump sum |
+| [Modelo-variables-macro](https://github.com/Andalejo1109/Modelo-variables-macro) | Asignación dinámica con indicadores FRED |
 
 ---
 
