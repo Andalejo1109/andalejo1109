@@ -1,6 +1,6 @@
 # Andrés Alejandro Rodríguez Lozano (@Andalejo1109)
 
-**Economista · Científico de datos · Bogotá**
+**Economista · Científico de datos · Colombia**
 
 [![Web](https://img.shields.io/badge/Web-andalejo1109.github.io-0B0E14?style=flat-square)](https://andalejo1109.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andalejo-0A66C2?style=flat-square)](https://www.linkedin.com/in/andalejo/)
