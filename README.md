@@ -64,4 +64,4 @@ Quien quiera seguirla puede empezar con poco capital y aportar mes a mes. El det
 
 [Web](https://andalejo1109.github.io/) · [LinkedIn](https://www.linkedin.com/in/andalejo/) · [YouTube](https://youtube.com/@andalejo1109) · [X](https://x.com/andalejo)
 
-*El pedaleo es la pasión; las rutas de gravel, la calma.*
+*Me apasiona el ciclismo y me divierto más en las rutas de gravel.*
