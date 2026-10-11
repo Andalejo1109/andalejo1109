@@ -43,7 +43,7 @@ La misma disciplina de datos, aplicada a un portafolio que publico y mido: **cor
 
 Núcleo: **$SPYG · $SMH · $BRK.B · $IEMG · $VTI**
 
-Snapshot 4 oct 2026 (eToro): AUC público **US$ 97.3 mil** · **60** copiers · YTD **+22.5%** · risk **4**. Composición: SPYG 30.5% (+62.5%) · SMH 21.9% (+163.0%) · BRK.B 20.5% (+14.3%) · IEMG 20.0% (+11.6%) · VTI 7.2% (+74.9%).
+Snapshot 11 oct 2026 (eToro): AUC público **US$ 98.3 mil** · **61** copiers · YTD **+22.2%** · risk **4**. Composición: SPYG 30.9% (+63.9%) · SMH 21.0% (+151.1%) · BRK.B 21.1% (+17.2%) · IEMG 19.8% (+10.3%) · VTI 7.3% (+76.7%).
 
 Auditoría externa (BullAware): Sharpe **1.30** · Score **8/10** · Beta **0.95** · Risk **4**.
 
